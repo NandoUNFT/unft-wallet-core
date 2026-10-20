@@ -1,0 +1,35 @@
+{
+  "account": {
+    "path": "m/44'/10002'/0'",
+    "unft_xpriv": "v1wAxN7KRFoXtp1FxMj9sDmtELcT6uhHwMYdpcuyXRxJFgmNgVhHvSybMmMxNgvAFTsFEhricMXQZv1S6wMyw8gyaQMX5kEUVESW6uxApZGgvvC",
+    "unft_xpub": "v1wAP9JaTdn8eoVmGRurijFY5Fkw2vyWusgQzJDFauRYowhiqjzob2xEpzAR5LdhWiRGv13kCMMhkyYMuTLasn1WsGJWeKQBNaKtGmnFpk1iRRM"
+  },
+  "bip39_passphrase": "TREZOR",
+  "change_0": {
+    "address": "MVULj1PKig6C9YEuVCF8BcM4qZbpfJae1k",
+    "path": "m/44'/10002'/0'/1/0",
+    "public_key_hex": "0365829ea25c46d4a5db5343d4fcaabe29475a5a4f545267e97606c431feecd81a",
+    "script_pub_key_hex": "76a914eca12087d7e713f31d7df5735c30e0070fbaa91e88ac"
+  },
+  "coin_type": 10002,
+  "external_0": {
+    "address": "MN3nQ1LBvTrdR5km1EhMGcPCLoKd16iYV9",
+    "path": "m/44'/10002'/0'/0/0",
+    "public_key_hex": "03dd068c54f2878766cb7c4ed8012bcbb711cb20542c0dac23881b0db446184ace",
+    "script_pub_key_hex": "76a9149b33471c97a44ce5955508d4599154cb0be9bf4988ac"
+  },
+  "external_1": {
+    "address": "MV1oxLJ6rtQm7KXcjm51EkU17hhB2raUt8",
+    "path": "m/44'/10002'/0'/0/1",
+    "public_key_hex": "02d1cb7280ba92a9bbc4d41c8c30ad5ee9e2686ccf687e4c9d58844d4648cb8d14",
+    "script_pub_key_hex": "76a914e79ca0594fdedc1be29389dd94596ecc1c592cc888ac"
+  },
+  "master": {
+    "chain_code_hex": "61ccb2bbe7d2a4fccd5f418ee931db7cbac9a153ec43b0ae3759ff991e4d23d1",
+    "private_key_hex": "c8b4073ccfcc63475c3d5202c6594484ee4e77b867cde3c3b46432fd71b467ae"
+  },
+  "mnemonic": "abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon art",
+  "seed_hex": "bda85446c68413707090a52022edd26a1c9462295029f2e60cd7c4f2bbd3097170af7a4d73245cafa9c3cca8d561a7c3de6f5d4a10be8ed2a5e608d68f92fcc8",
+  "status": "candidate coin type; not reserved or assigned",
+  "warning": "PUBLIC TEST VECTOR ONLY - NEVER USE THIS MNEMONIC FOR FUNDS"
+}

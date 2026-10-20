@@ -1,0 +1,8 @@
+diff --git a/slip-0044.md b/slip-0044.md
+--- a/slip-0044.md
++++ b/slip-0044.md
+@@
+ 10000  | FO  | FIBOS
+ 10001  | SPACE  | Space
++10002  | UNFT  | UNFTChain
+ 10007  | S  | SONIC
