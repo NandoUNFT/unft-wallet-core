@@ -69,7 +69,9 @@ All mnemonic and private material in the vector file is public test material
 and must never hold funds.
 
 ```sh
-git checkout <published-release-tag>
+git clone https://github.com/NandoUNFT/unft-wallet-core.git
+cd unft-wallet-core
+git checkout v0.1.0-slip44-candidate.2
 ./verify-release.sh
 ```
 
@@ -81,7 +83,8 @@ Core verification is recorded in [`core-verification.md`](core-verification.md).
 
 Before opening the upstream PR:
 
-1. publish the prepared repository and its signed/annotated release tag;
+1. publish the prepared annotated release tag
+   [`v0.1.0-slip44-candidate.2`](https://github.com/NandoUNFT/unft-wallet-core/tree/v0.1.0-slip44-candidate.2);
 2. recheck `UNFT`, `UNFTChain`, candidate `10002`, and pending upstream PRs;
 3. regenerate vectors from the published tag;
 4. make the one-line upstream change in `slip-0044.patch`.
